@@ -1,1 +1,1 @@
-![OpenHD Metrics](../github-metrics.svg)
+![OpenHD Metrics](/github-metrics.svg)
