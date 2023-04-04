@@ -51,10 +51,13 @@ image:https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloud
 image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digitalocean&style=flat-square[title="DigitalOcean", link="https://www.digitalocean.com?utm_medium=opensource&utm_source=OpenHD"]
 
 ---
+Support us
+
+image::https://opencollective.com/openhd/tiers/badge.svg[Financial contributors]
 
 ++++
 <a href="https://opencollective.com/openhd/donate" target="_blank">
-  <img src="https://opencollective.com/openhd/donate/button@2x.png?color=blue" width=300 />
+  <img src="https://opencollective.com/openhd/donate/button@2x.png?color=blue" width=150 />
 </a>
 ++++
 
