@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1302" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="794" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -96,6 +96,82 @@
                     </section>
                 </div>
             </section>
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
+                    </svg>
+                    18 Languages
+                </h2>
+            </section>
+            <section class="column">
+                <h3 class="field">Most used languages</h3>
+                <small>estimation from 16.3mb of code in 2459 edited files across 604 commits</small>
+                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
+                    <mask id="languages-bar">
+                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
+                    </mask>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.3422162083146" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="410.3422162083146" y="0" width="39.7587652631293" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.1009814714439" y="0" width="3.5526355619431764" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.6536170333871" y="0" width="1.8041520110009663" height="8" fill="#44a51c"/>
+                    <rect mask="url(#languages-bar)" x="455.4577690443881" y="0" width="0.9511541053759073" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="456.408923149764" y="0" width="0.8079216271702135" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.2168447769342" y="0" width="0.3174381616070932" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="457.53428293854125" y="0" width="2.4657170614587147" height="8" fill="#ededed"/>
+                </svg>
+                <div class="field center horizontal-wrap fill-width">
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#44a51c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        QML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CMake
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Makefile
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Other
+                    </div>
+                </div>
+            </section>
             <section class="habits">
                 <h2 class="field wrap">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,8 +242,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
-                            <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">12</span>
+                            <div class="bar" style="height: 31.57894736842105px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -196,8 +272,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">12</span>
-                            <div class="bar" style="height: 31.57894736842105px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">10</span>
+                            <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -243,17 +319,17 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">21</span>
-                                <div class="bar" style="height: 24.418604651162788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 25.609756097560975px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">26</span>
-                                <div class="bar" style="height: 30.23255813953488px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 31.70731707317073px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">33</span>
-                                <div class="bar" style="height: 38.372093023255815px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">35</span>
+                                <div class="bar" style="height: 42.68292682926829px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -267,13 +343,13 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">43</span>
+                                <span class="value">41</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">40</span>
-                                <div class="bar" style="height: 46.51162790697674px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 48.78048780487805px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -290,244 +366,162 @@
                 <div class="row margin-bottom">
                     <section class="column chart">
                         <h3>Total stargazers</h3>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
-                            <g transform="translate(10,270)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                                <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
-                                <g class="tick" opacity="1" transform="translate(43.67307692307692,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 23</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(78.28846153846153,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 24</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(112.90384615384616,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 25</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(147.51923076923075,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mar 26</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(180.6923076923077,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 27</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(215.30769230769232,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(249.92307692307693,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(284.5384615384615,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(319.15384615384613,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(353.7692307692307,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(388.38461538461536,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Apr 02</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(422.99999999999994,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 03</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(457.6153846153846,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 04</text>
-                                </g>
-                            </g>
-                            <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,10.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,683</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,52.16666666666666)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,682</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,93.83333333333334)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,681</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,135.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,680</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,177.16666666666669)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,679</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,218.83333333333334)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,678</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,260.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1,677</text>
-                                </g>
-                            </g>
-                            <path transform="translate(10,10)" d="M10,260L44.615,218.333L79.231,218.333L113.846,218.333L148.462,218.333L183.077,176.667L217.692,176.667L252.308,176.667L286.923,176.667L321.538,135L356.154,51.667L390.769,51.667L425.385,10L460,10" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,260L44.615,260L79.231,260L113.846,260L148.462,260L183.077,260L217.692,260L252.308,260L286.923,260L321.538,260L356.154,260L390.769,260L425.385,260L460,260L460,10L425.385,10L390.769,51.667L356.154,51.667L321.538,135L286.923,176.667L252.308,176.667L217.692,176.667L183.077,176.667L148.462,218.333L113.846,218.333L79.231,218.333L44.615,218.333L10,260Z" fill="rgba(88, 166, 255, .1)"/>
-                            <g>
-                                <circle transform="translate(10,10)" cx="10" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="44.61538461538462" cy="218.33333333333334" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="79.23076923076924" cy="218.33333333333334" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="113.84615384615385" cy="218.33333333333334" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="148.46153846153848" cy="218.33333333333334" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="183.0769230769231" cy="176.66666666666669" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="217.6923076923077" cy="176.66666666666669" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="252.3076923076923" cy="176.66666666666669" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="286.92307692307696" cy="176.66666666666669" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="321.53846153846155" cy="135" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="356.1538461538462" cy="51.66666666666666" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="390.7692307692308" cy="51.66666666666666" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="425.3846153846154" cy="10" r="2" fill="#106cbc"/>
-                            </g>
-                            <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="260" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="44.61538461538462" y="218.33333333333334" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="79.23076923076924" y="218.33333333333334" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="113.84615384615385" y="218.33333333333334" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="148.46153846153848" y="218.33333333333334" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="183.0769230769231" y="176.66666666666669" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="217.6923076923077" y="176.66666666666669" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="252.3076923076923" y="176.66666666666669" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="286.92307692307696" y="176.66666666666669" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="321.53846153846155" y="135" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="356.1538461538462" y="51.66666666666666" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="390.7692307692308" y="51.66666666666666" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                                <text transform="translate(10,6)" x="425.3846153846154" y="10" fill="rgba(127, 127, 127, .8)">1.68k</text>
-                            </g>
-                        </svg>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                22
+                                <div class="bottom">Mar.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 10.416666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                26
+                            </div>
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                27
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                28
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                29
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 18.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                30
+                            </div>
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 26.249999999999996px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                31
+                            </div>
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                1
+                                <div class="bottom">Apr.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 42.083333333333336px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                2
+                            </div>
+                            <div class="entry">
+                                <span class="value">1.68k</span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                4
+                            </div>
+                        </div>
                     </section>
                     <section class="column chart">
                         <h3>New stargazers per day</h3>
-                        <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
-                            <g transform="translate(10,270)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
-                                <path class="domain" stroke="rgba(127, 127, 127, .8)" d="M10.5,0.5H460.5"/>
-                                <g class="tick" opacity="1" transform="translate(43.67307692307692,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 23</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(78.28846153846153,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 24</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(112.90384615384616,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Sat 25</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(147.51923076923075,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mar 26</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(180.6923076923077,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 27</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(215.30769230769232,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 28</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(249.92307692307693,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Wed 29</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(284.5384615384615,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Thu 30</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(319.15384615384613,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Fri 31</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(353.7692307692307,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">April</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(388.38461538461536,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Apr 02</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(422.99999999999994,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Mon 03</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(457.6153846153846,0)">
-                                    <line stroke="currentColor" y2="6" stroke-opacity="0.5"/>
-                                    <text fill="rgba(127, 127, 127, .8)" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end;">Tue 04</text>
-                                </g>
-                            </g>
-                            <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                <g class="tick" opacity="1" transform="translate(0,10.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2.0</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,73)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.5</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,135.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,198)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,260.5)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</text>
-                                </g>
-                            </g>
-                            <path transform="translate(10,10)" d="M10,10L44.615,135L79.231,260L113.846,260L148.462,260L183.077,135L217.692,260L252.308,260L286.923,260L321.538,135L356.154,10L390.769,260L425.385,135L460,260" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,260L44.615,260L79.231,260L113.846,260L148.462,260L183.077,260L217.692,260L252.308,260L286.923,260L321.538,260L356.154,260L390.769,260L425.385,260L460,260L460,260L425.385,135L390.769,260L356.154,10L321.538,135L286.923,260L252.308,260L217.692,260L183.077,135L148.462,260L113.846,260L79.231,260L44.615,135L10,10Z" fill="rgba(88, 166, 255, .1)"/>
-                            <g>
-                                <circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="44.61538461538462" cy="135" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="79.23076923076924" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="113.84615384615385" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="148.46153846153848" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="183.0769230769231" cy="135" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="217.6923076923077" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="252.3076923076923" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="286.92307692307696" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="321.53846153846155" cy="135" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="356.1538461538462" cy="10" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="390.7692307692308" cy="260" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="425.3846153846154" cy="135" r="2" fill="#106cbc"/>
-                            </g>
-                            <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">+2</text>
-                                <text transform="translate(10,6)" x="44.61538461538462" y="135" fill="rgba(127, 127, 127, .8)">+1</text>
-                                <text transform="translate(10,6)" x="79.23076923076924" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="113.84615384615385" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="148.46153846153848" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="183.0769230769231" y="135" fill="rgba(127, 127, 127, .8)">+1</text>
-                                <text transform="translate(10,6)" x="217.6923076923077" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="252.3076923076923" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="286.92307692307696" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="321.53846153846155" y="135" fill="rgba(127, 127, 127, .8)">+1</text>
-                                <text transform="translate(10,6)" x="356.1538461538462" y="10" fill="rgba(127, 127, 127, .8)">+2</text>
-                                <text transform="translate(10,6)" x="390.7692307692308" y="260" fill="rgba(127, 127, 127, .8)">0</text>
-                                <text transform="translate(10,6)" x="425.3846153846154" y="135" fill="rgba(127, 127, 127, .8)">+1</text>
-                            </g>
-                        </svg>
+                        <div class="chart-bars">
+                            <div class="entry">
+                                <span class="value">+2</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                22
+                                <div class="bottom">Mar.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                23
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                24
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                25
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                26
+                            </div>
+                            <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                27
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                28
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                29
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                30
+                            </div>
+                            <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                31
+                            </div>
+                            <div class="entry">
+                                <span class="value">+2</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                1
+                                <div class="bottom">Apr.</div>
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                2
+                            </div>
+                            <div class="entry">
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                3
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                4
+                            </div>
+                        </div>
                     </section>
                 </div>
             </section>
             <footer>
-                <span>Last updated 4 Apr 2023, 10:29:45 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Apr 2023, 10:35:47 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
