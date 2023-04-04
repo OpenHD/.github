@@ -47,6 +47,11 @@ image:https://img.shields.io/opencollective/tier/openhd/18297?label=%5Bopencolle
 image:https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square[title="Cloudsmith", link="https://cloudsmith.io"]
 image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digitalocean&style=flat-square[title="DigitalOcean", link="https://www.digitalocean.com?utm_medium=opensource&utm_source=OpenHD"]
 
+---
+
+++++
+<object type="image/svg+xml" data="https://opencollective.com/openhd/tiers/backer.svg?avatarHeight=36&width=600"></object>
+++++
 
 ---
 image::/github-metrics.svg[title="OpenHD Metrics", link="https://github.com/OpenHD/OpenHD"]
