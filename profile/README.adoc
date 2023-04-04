@@ -50,7 +50,7 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 ---
 
 ++++
-<object type="image/svg+xml" data="https://opencollective.com/openhd/tiers/backer.svg?avatarHeight=36&width=600"></object>
+<script src="https://opencollective.com/openhd/banner.js"></script>
 ++++
 
 ---
