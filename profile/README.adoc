@@ -50,7 +50,9 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 ---
 
 ++++
-<script src="https://opencollective.com/openhd/banner.js"></script>
+<a href="https://opencollective.com/openhd/donate" target="_blank">
+  <img src="https://opencollective.com/openhd/donate/button@2x.png?color=blue" width=300 />
+</a>
 ++++
 
 ---
