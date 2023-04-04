@@ -49,4 +49,4 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 
 
 ---
-image::/github-metrics.svg[OpenHD Metrics]
+image::/github-metrics.svg[title="OpenHD Metrics", link="https://github.com/OpenHD/OpenHD"]
