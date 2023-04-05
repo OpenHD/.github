@@ -50,7 +50,7 @@ image:https://img.shields.io/opencollective/tier/openhd/18297?label=%5Bopencolle
 image:https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square[title="Cloudsmith", link="https://cloudsmith.io"]
 image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digitalocean&style=flat-square[title="DigitalOcean", link="https://www.digitalocean.com?utm_medium=opensource&utm_source=OpenHD"]
 
-
+[frame=ends]
 |=======================================================================
 |image:https://opencollective.com/openhd/tiers/badge.svg[Financial contributors] | image:https://opencollective.com/openhd/donate/button@2x.png?color=blue[width=300, link="https://opencollective.com/openhd/donate"]
 |=======================================================================
