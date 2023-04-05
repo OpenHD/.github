@@ -38,7 +38,6 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
 
 // Badges
 +++
-
 <div align="center">
   <a href="https://t.me/OpenHD_User"><img src="https://img.shields.io/badge/Telegram-Join_us!-informational?logo=Telegram&amp;style=flat-square" alt="Telegram"></a>
   <a href="https://discord.gg/NRRn5ugrxH"><img src="https://img.shields.io/badge/Discord-Join_us!-informational?logo=Discord&amp;style=flat-square" alt="Discord"></a>
@@ -48,8 +47,6 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
   <a href="https://cloudsmith.io"><img src="https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&amp;style=flat-square" alt="Cloudsmith"></a>
   <a href="https://www.digitalocean.com?utm_medium=opensource&amp;utm_source=OpenHD"><img src="https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digitalocean&amp;style=flat-square" alt="DigitalOcean"></a>
 </div>
-
-
 +++
 
 ---
