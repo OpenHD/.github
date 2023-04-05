@@ -53,7 +53,12 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 [.center]
 |===
 |image:https://opencollective.com/openhd/tiers/badge.svg[Financial contributors] | image:https://opencollective.com/openhd/donate/button@2x.png?color=blue[width=250, link="https://opencollective.com/openhd/donate"]
-2+|+++<p align="center"><img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers"></p>+++
+2+|
+  +++
+  <p align="center">
+    <img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers">
+  </p>
+  +++
 
 |===
 
