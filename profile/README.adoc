@@ -56,8 +56,8 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 2+|
   +++
   <div style="position:relative; display:inline-block;">
-   <img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers">
    <p style="position:absolute; top:0; left:0; width:100%; text-align:center;">Current OpenCollective Bakers:</p>
+   <img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers">
   </div>
 
   +++
