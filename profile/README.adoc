@@ -60,6 +60,6 @@ image::https://opencollective.com/openhd/tiers/badge.svg[Financial contributors]
 ++++
 
 ---
-image::/github-metrics.svg[title="OpenHD Metrics", link="https://github.com/OpenHD/OpenHD"]
+image::/github-metrics.svg[link="https://github.com/OpenHD/OpenHD"]
 
 ====
