@@ -56,7 +56,7 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
   +++
     <div align="center"">
       <p style="position:absolute; top:0; left:0; width:100%; text-align:center; z-index:1;">Current OpenCollective Bakers:</p>
-      <img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers" href="https://opencollective.com/openhd#support">
+      <a href="https://opencollective.com/openhd#support"><img height="50" src="https://opencollective.com/openhd/tiers/backer.svg" alt="Bakers"></a>
     </div>
   +++
 
