@@ -53,12 +53,7 @@ image:https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digital
 ---
 
 |=======================================================================
-|Financial contributors | Donations
-
-image:https://opencollective.com/openhd/tiers/badge.svg[] | 
-++++
-link:https://opencollective.com/openhd/donate[link=https://opencollective.com/openhd/donate]image:https://opencollective.com/openhd/donate/button.png[Donate,role="button",width="200px"]link:end[]
-++++
+|image:https://opencollective.com/openhd/tiers/badge.svg[Financial contributors] | image:https://opencollective.com/openhd/donate/button@2x.png?color=blue[width=200, link="https://opencollective.com/openhd/donate"]
 |=======================================================================
 
 ---
