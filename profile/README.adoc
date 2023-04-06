@@ -74,7 +74,7 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
 ---
 
 +++
-<a href="https://github.com/OpenHD/OpenHD"><img src="/github-metrics.svg"></a>
+<a href="https://github.com/OpenHD/OpenHD"><img src="/github-metrics.svg" align="center" width="100"></a>
 +++
 
 ====
