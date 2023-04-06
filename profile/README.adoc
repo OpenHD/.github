@@ -73,6 +73,6 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
 
 ---
 
-image::/github-metrics.svg[link="https://github.com/OpenHD/OpenHD"]
+image::/github-metrics.svg[link="https://github.com/OpenHD/OpenHD", width="100%"]
 
 ====
