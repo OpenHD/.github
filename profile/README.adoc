@@ -46,6 +46,7 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
   <a href="https://opencollective.com/openhd"><img src="https://img.shields.io/opencollective/tier/openhd/18297?label=%5Bopencollective%5D%20mothly%20bakers&amp;style=flat-square" alt="Open Collective members by tier^"></a>
   <a href="https://cloudsmith.io"><img src="https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&amp;style=flat-square" alt="Cloudsmith"></a>
   <a href="https://www.digitalocean.com?utm_medium=opensource&amp;utm_source=OpenHD"><img src="https://img.shields.io/badge/Supported%20by-DigitalOcean-blue?logo=digitalocean&amp;style=flat-square" alt="DigitalOcean"></a>
+  <a><img src="https://komarev.com/ghpvc/?username=OpenHD&style=flat-square" alt="Profile Counter"></a>
 </div>
 +++
 
