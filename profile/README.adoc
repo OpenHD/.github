@@ -51,6 +51,7 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
 +++
 
 ---
+
 +++
 <div align="center">
 <table>
@@ -69,6 +70,7 @@ image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo
 </table>
 </div>
 +++
+
 ---
 
 image::/github-metrics.svg[link="https://github.com/OpenHD/OpenHD"]
