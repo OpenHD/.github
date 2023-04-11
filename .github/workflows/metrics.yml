@@ -56,8 +56,8 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAPS_API_TOKEN }}
+          #plugin_stargazers_worldmap: yes
+          #plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAPS_API_TOKEN }}
           #plugin_stargazers_worldmap_sample: 200
           plugin_lines: yes
           plugin_lines_history_limit: 3
