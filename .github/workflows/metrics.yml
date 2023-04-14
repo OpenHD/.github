@@ -61,7 +61,8 @@ jobs:
           #plugin_stargazers_worldmap_sample: 200
           plugin_lines: yes
           plugin_lines_history_limit: 1
-          plugin_lines_sections: base, history, repositories
+          #plugin_lines_sections: base, history, repositories
+          plugin_lines_sections: base
           repositories_skipped: |
             @use.patterns
             -OpenHD/.github
