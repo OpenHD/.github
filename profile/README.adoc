@@ -34,7 +34,7 @@ endif::[]
 // === BEGIN OF CONTENT === \\
 
 // Logo
-image::https://github.com/OpenHD/OpenHD/blob/2.3-evo/wiki-content/Open.HD%20Logo%20Splashscreen/Plain_OpenHD_Logo.jpg[link="https://github.com/OpenHD/OpenHD"]
+image::https://github.com/OpenHD/Documentation/blob/master/.gitbook/assets/plain_openhd_logo.jpg[link="https://github.com/OpenHD/OpenHD"]
 
 // Badges
 +++
