@@ -8,10 +8,8 @@ Open-source digital FPV: HD video, telemetry and RC over WiFi broadcast.
 
 [Telegram](https://t.me/OpenHD_User) ·
 [Website](https://openhdfpv.org) ·
-[Docs](https://openhd.gitbook.io/open-hd/) ·
 [Releases](https://github.com/OpenHD/OpenHD/releases) ·
-[Discord](https://discord.gg/NRRn5ugrxH) ·
-[Forum](https://forum.openhdfpv.org)
+[Discord](https://discord.gg/NRRn5ugrxH)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join_the_community-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/OpenHD_User)
 [![Release](https://img.shields.io/github/v/release/OpenHD/OpenHD?style=flat-square)](https://github.com/OpenHD/OpenHD/releases)
@@ -41,19 +39,19 @@ Alongside video it carries MAVLink telemetry and RC control, and works with Ardu
 
 ## Getting involved
 
-New to OpenHD? Start with the [docs](https://openhd.gitbook.io/open-hd/) and grab the latest image from the [releases](https://github.com/OpenHD/OpenHD/releases).
-Most of the community lives in our [Telegram group](https://t.me/OpenHD_User), which is the best place for questions. [Discord](https://discord.gg/NRRn5ugrxH) and the [forum](https://forum.openhdfpv.org) work too.
+New to OpenHD? Start on our [website](https://openhdfpv.org) and grab the latest image from the [releases](https://github.com/OpenHD/OpenHD/releases).
+Most of the community lives in our [Telegram group](https://t.me/OpenHD_User), which is the best place for questions. You can also find us on [Discord](https://discord.gg/NRRn5ugrxH).
 Bug reports, testing and pull requests are always welcome.
 
+<!--
 <a href="https://github.com/OpenHD/OpenHD/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=OpenHD/OpenHD&max=60&columns=15" alt="Contributors">
 </a>
+-->
 
 ## Activity
 
 <div align="center">
-  <a href="https://github.com/OpenHD/OpenHD"><img src="/github-metrics.svg" width="500" alt="OpenHD metrics"></a>
-  <br><br>
   <a href="https://star-history.com/#OpenHD/OpenHD&OpenHD/QOpenHD&Date">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=OpenHD/OpenHD,OpenHD/QOpenHD&type=Date&theme=dark">
