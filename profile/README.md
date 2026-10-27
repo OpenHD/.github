@@ -1,18 +1,19 @@
 <div align="center">
 
 <a href="https://github.com/OpenHD/OpenHD">
-  <img src="https://raw.githubusercontent.com/OpenHD/Documentation/master/.gitbook/assets/plain_openhd_logo.jpg" alt="OpenHD" width="420">
+  <img src="https://raw.githubusercontent.com/OpenHD/Documentation/master/.gitbook/assets/plain_openhd_logo.jpg" alt="OpenHD" width="100%">
 </a>
 
 Open-source digital FPV: HD video, telemetry and RC over WiFi broadcast.
 
+[Telegram](https://t.me/OpenHD_User) ·
 [Website](https://openhdfpv.org) ·
 [Docs](https://openhd.gitbook.io/open-hd/) ·
 [Releases](https://github.com/OpenHD/OpenHD/releases) ·
 [Discord](https://discord.gg/NRRn5ugrxH) ·
-[Forum](https://forum.openhdfpv.org) ·
-[Telegram](https://t.me/OpenHD_User)
+[Forum](https://forum.openhdfpv.org)
 
+[![Telegram](https://img.shields.io/badge/Telegram-Join_the_community-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/OpenHD_User)
 [![Release](https://img.shields.io/github/v/release/OpenHD/OpenHD?style=flat-square)](https://github.com/OpenHD/OpenHD/releases)
 [![Stars](https://img.shields.io/github/stars/OpenHD/OpenHD?style=flat-square)](https://github.com/OpenHD/OpenHD/stargazers)
 [![Open Collective](https://img.shields.io/opencollective/all/openhd?style=flat-square&label=backers)](https://opencollective.com/openhd)
@@ -41,7 +42,7 @@ Alongside video it carries MAVLink telemetry and RC control, and works with Ardu
 ## Getting involved
 
 New to OpenHD? Start with the [docs](https://openhd.gitbook.io/open-hd/) and grab the latest image from the [releases](https://github.com/OpenHD/OpenHD/releases).
-Questions are best asked on [Discord](https://discord.gg/NRRn5ugrxH) or the [forum](https://forum.openhdfpv.org).
+Most of the community lives in our [Telegram group](https://t.me/OpenHD_User), which is the best place for questions. [Discord](https://discord.gg/NRRn5ugrxH) and the [forum](https://forum.openhdfpv.org) work too.
 Bug reports, testing and pull requests are always welcome.
 
 <a href="https://github.com/OpenHD/OpenHD/graphs/contributors">
@@ -96,4 +97,4 @@ Thank you to everyone who supports us with a monthly or one-time contribution.
   </tr>
 </table>
 
-Interested in supporting OpenHD with hardware, services or a sponsorship? Reach out on [Discord](https://discord.gg/NRRn5ugrxH) or via [Open Collective](https://opencollective.com/openhd).
+Interested in supporting OpenHD with hardware, services or a sponsorship? Reach out on [Telegram](https://t.me/OpenHD_User) or via [Open Collective](https://opencollective.com/openhd).
