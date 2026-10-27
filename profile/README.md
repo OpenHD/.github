@@ -64,12 +64,6 @@ build infrastructure and keeping the project independent. All income and expense
 
 <a href="https://opencollective.com/openhd/donate"><img src="https://opencollective.com/openhd/donate/button@2x.png?color=blue" width="250" alt="Donate to OpenHD"></a>
 
-### Sponsors
-
-Organizations supporting OpenHD with a sponsorship. [Become a sponsor](https://opencollective.com/openhd/contribute) and get your logo shown here.
-
-<a href="https://opencollective.com/openhd#support"><img src="https://opencollective.com/openhd/sponsors.svg?width=890&avatarHeight=60&button=false" alt="Sponsors"></a>
-
 ### Backers
 
 Thank you to everyone who supports us with a monthly or one-time contribution.
