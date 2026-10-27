@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/OpenHD/OpenHD">
-  <img src="https://openhdfpv.org/assets/images/plain_openhd_logo-e62379a6ed5aec8d4247c638afcf2fc6.avif" alt="OpenHD" width="100%">
+  <img src="https://raw.githubusercontent.com/OpenHD/OpenHD-Website/refs/heads/main/static/img/assets/plain_openhd_logo.jpg" alt="OpenHD" width="100%">
 </a>
 
 Open-source digital FPV: HD video, telemetry and RC over WiFi broadcast.
