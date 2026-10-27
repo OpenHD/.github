@@ -33,11 +33,7 @@ Alongside video it carries MAVLink telemetry and RC control, and works with Ardu
 | [OpenHD](https://github.com/OpenHD/OpenHD) | Core: video, telemetry and wifibroadcast link for air and ground units |
 | [QOpenHD](https://github.com/OpenHD/QOpenHD) | Ground station app with OSD and settings |
 | [OpenHD-ImageBuilder](https://github.com/OpenHD/OpenHD-ImageBuilder) | Builds the flashable OpenHD images |
-| [OpenHD-KernelBuilder](https://github.com/OpenHD/OpenHD-KernelBuilder) | Kernels with patched WiFi drivers |
-| [OpenHD-WebUI](https://github.com/OpenHD/OpenHD-WebUI) | Web interface for configuration and recordings |
-| [OpenHD-SysUtils](https://github.com/OpenHD/OpenHD-SysUtils) | System helper scripts |
-| [OpenHD-RV1126-OS](https://github.com/OpenHD/OpenHD-RV1126-OS) | OS for RV1126-based air units |
-| [Documentation](https://github.com/OpenHD/Documentation) | Documentation sources |
+| [Documentation & Website](https://github.com/OpenHD/OpenHD-Website) | Documentation & Website |
 
 ## Getting involved
 
